@@ -13,7 +13,7 @@ contract mortal {
 	}
 }
 
-contract greeter is mortal {
+contract cumprimentador is mortal {
 
 	//define a variavel cumprimento do tipo string
 	string cumprimento;

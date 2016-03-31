@@ -7,7 +7,8 @@ BLOCKCHAIN COMO TECNOLOGIA EQUALITÁRIA E POSSIBILITADORA DA LIBERDADE INDIVIDUA
 
 A TECNOLOGIA BLOCKCHAIN APLICADA EM SISTEMAS DECENTRALIZADOS E NA CIÊNCIA COGNITIVA.
 
-
+____________
+++++++++++++++++++
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 Abstract

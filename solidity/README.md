@@ -7,9 +7,7 @@ BLOCKCHAIN COMO TECNOLOGIA EQUALITÁRIA E POSSIBILITADORA DA LIBERDADE INDIVIDUA
 
 A TECNOLOGIA BLOCKCHAIN APLICADA EM SISTEMAS DECENTRALIZADOS E NA CIÊNCIA COGNITIVA.
 
-____________
-++++++++++++++++++
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 
 Abstract
 
@@ -29,12 +27,10 @@ Isso poderia revolucionar como humanos interagem com objetos no futuro. Como a e
 
 Estamos vendo o nascimento de uma nova industria tecnológica com crescimento exponencial, essa revolução descentralizada foi chamada de diferentes nomes: “cryptocurrency 2.0”, “Bitcoin 2.0”, “Web 3.0 platform”.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-/h3
+________________________________________________________________________________________________________________________________________________/h3
 SUMÁRIO
 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+_______________________________________________________________________________________________________________________________________________
 INTRODUÇÃO
 
 Um modo de entender o mundo moderno é por meio de paradigmas computacionais, que normalmente surgem de década em década. Primeiramente houve o mainframe e PC(computador pessoal) como paradigmas, logo depois a internet apareceu revolucionando tudo que conhecemos em seguida Smartphones e redes sociais aparecerem em nosso dia a dia. O paradigma atual desta década poderia ser o mundo conectado que se baseia em criptografia a partir da blockchain. Este mundo conectado poderia facilmente incluir a tecnologia blockchain como camada econômica para algo que rapidamente está se tornando uma grande rede de dispositivos conectados, como Internet of Things, smart home, smart cars e smart cities. A economia possibilitada pela blockchain permite não simplesmente a movimentação de dinheiro, mas a transferência de informações e a alocação efetiva de recursos que o próprio dinheiro possibilitou nas ultimas décadas.
@@ -49,7 +45,7 @@ Na verdade poder ver as transações de todos é uma frase um pouco deturpada da
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Contextualização e motivação
 
 
@@ -65,20 +61,20 @@ Um sistema aonde a fraude e a corrupção não tenham espaço, aonde as idéias 
 
 Talvez nós estamos no centro de uma nova revolução. Uma revolução que começou com uma nova tecnologia financeira na Internet, uma moeda alternativa chamada bitcoin que não era apoiada nem emitida por nenhuma autoridade central, mas por um consenso entre todos os usuários da rede.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Objetivos
 ................................
 ................................
 ................................
 ..........
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Estrutura do documento
 ................................
 ................................
 ................
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 BITCOIN
 
 Uma versão puramente eletrônica do dinheiro permitiria pagamentos onlines enviados diretamente de um ponto ao outro sem a necessidade de uma instituição financeira. Assinaturas digitais possibilitam parte da solução, porém a maior parte de seus benefícios são perdidos se uma terceira entidade reconhecida ainda for necessária para prevenir ataques de "double-spending". A rede imprime transações em intervalos de tempo pré definidos fazendo um hash destas dentro de uma cadeia de blocos "hash-based" "proof-of-work". A maior cadeia não serve apenas como prova da sequência de eventos ocorrida, mas como prova de que estas vieram da maior agregação de poder computacional (CPU power). Enquanto a maoria do poder computacional for controlada por nodos que não estão cooperando maliciosamente contra a rede, eles inrão gerar a maior sequência e deixar os atacantes para trás. A rede por si só necessita de mínima estrutura. Mensagens são transmitidas na melhor base de eficiência, e nodos podem sair e voltar para a rede à sua vontade, aceitando a cadeia de maior prova de trabalho computacional como prova do que aconteceu enquanto eles estiveram ausentes.
@@ -99,31 +95,31 @@ Estes processos, combinados com matemática específica para manter segurança e
 
 Isso pode parecer familiar com a forma que os bancos mantêm suas contas, mas a diferença desta “tabela” ser mantida por um grupo de pessoas ao invés de apenas uma “entidade” introduz um grande número de fatores importantes…
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 2
 TECNOLOGIA BLOCKCHAIN
 
 A Blockchain é a tabela pública que mantém um histórico de todas as transações confirmadas. Isso possibilita as carteiras de verificarem seu balanço de b e verificar se o b que ela está recebendo realmente pertence ao remetente. A integridade da ordem cronológica que é protegida por criptografia, as transações e todas as regras que atuam em cima deste protocolo, assim como o papel de seus usuários, é descrita em 3 posts neste blog detalhadamente, e por isso, não vamos defini-la aqui para não confundir o leitor com abstrações desnecessárias.
 Smart contracts – são linhas de código de software que podem automaticamente executar os termos de um contrato. Eles eliminam a necessidade de cláusulas contratuais ou pessoas envolvidas em sua execução. Contratos podem ser parciais ou totalmente auto-executados e auto-“enforcing”, ou sejam fazer com que as partes cumpram com o determinado. Isso possibilita um maior nível de segurança para as partes envolvidas em contraste ao atual e tradicional sistema de leis e potencialmente reduzindo custos. Smart contracts efetivamente monitoram os termos de um contrato que foi inserido em sua lista e processam o pagamento. Isso oferece uma variedade de outros benefícios como identidades e verificação de propriedades, provando à quem pertence aquele bem e eliminando possíveis disputas legais.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Conceitos
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Funções hash
 ................................
 ................................
 .....
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Árvores de Merkle
 ................................
 ................................
 .....................
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Assinatura digital >
 
 Uma assinatura digital funciona utilizando duas “chaves” diferentes, sua chave privada para criar a assinatura, e a chave pública para que outros possam verificá-la. Pense que a chave privada é seu mapa do tesouro, e a assinatura digital é um documento legal provando que aquele tesouro te pertence.
@@ -146,7 +142,7 @@ Através destes inputs referenciados, a autenticidade dos Bitcoins passa para fr
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 SERVIDOR TIMESTAMP
 
 
@@ -181,7 +177,7 @@ Neste caso, os nós simplesmente continuam com o primeiro bloco que eles receber
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Proof of work
 
 
@@ -197,14 +193,14 @@ Como mencionamos anteriormente, em média, levaria muitos anos para que um compu
 A recomendação atual é para esperarmos uma transação entrar em pelo menos um bloco ( uma confirmação), e para grandes transações 6 blocos é uma boa quantia de segurança para considerar aquele dinheiro definitivo.
 
 Mas porque 10 minutos por bloco? A escolha dessa quantia de tempo foi de alguma forma escolhida, pois em um tempo muito pequeno isso poderia gerar instabilidade, e um muito grande iria causar grandes atrasos para o usuário nas confirmações. Além dos computadores que irão ainda se juntar a rede com hardware especializado para mineração consequentemente fazendo com que a solução dos bloco fosse muito menor. Para compensar estas possibilidades de falha no sistema, a cada suas semanas todos os nós recalibram a dificuldade do problema matemático para 10 minutos. Em comparação, uma outra moeda criptografada chamada Litecoin possui um tempo entre a resolução dos blocos de 2,5 minutos.
-
+________________________________________________________________________________________________________________________________________________
 Funcionamento
 ................................
 ................................
 ..............................
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Segurança
 
 Uma vez que uma transação tenha sido utilizada, ela é considerada “gasta”, e não pode ser usada outra vez. Ao mesmo tempo, alguma pessoa com intenções maliciosas poderia fazer um gasto duplo(double-spending) referenciando o mesmo input em diferentes transações. Por isso, além de verificarem as transações e outras validações, os nós também verificam se esse input ainda não foi gasto. Então para cada input, os nós checam cada outra transação já realizada na rede para ter certeza que esse input ainda não foi utilizado. Pode parecer que este processo possa ter um gasto de tempo muito grande sendo que já existem milhões de transações na blockchain, porém este processo é feito rapidamente com um index de transações não gastas ainda.
@@ -214,19 +210,19 @@ Ataque double-spending
 ................................
 ............
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Ataque 51%
 ................................
 ................................
 ...............................
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Ataque de supressão de transações
 ................................
 ..........................
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Double Spending
 
 O fato de que existe um pouco de ambiguidade no final da corrente tem algumas implicações importantes para a segurança das transações. Por exemplo, se sua transação se localizar em uma das ramificações menores, ela perderá seu lugar na blockchain. Tipicamente isso significa que ela entrará de volta para as transações não confirmadas e incluída em um bloco posterior. Infelizmente, este fato de que uma transação possa perder seu lugar abre possibilidades para que um ataque de double-spending seja possível, o que era nossa motivação inicial para um sistema de ordenamento.
@@ -249,14 +245,14 @@ Como última questão, podemos pensar no caso de Alice possuir um computador ext
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Privacidade
 ................................
 ................................
 ................................
 ....
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Organizações Autônomas Decentralizadas (DAOs) / Corporações Autônomas Decentralizadas (DACs) / Corporações como Tecnologia / Entidade de Negócios totalmente Automatizadas 
 
 
@@ -267,16 +263,16 @@ Um conjunto de regras de uma DAC pode ser publicamente auditavel, escrito em có
 
  
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 5 COGNITIVE SCIENCE
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 6 ARTIFICIAL INTELIGENCE
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 4 DEEP LEARNING
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 -:PLATAFORMAS
 
 ETHEREUM :>
@@ -300,7 +296,7 @@ O fundador do ethereum : Vitalik Buterin acredita que a tecnologia desafia nossa
 Talvez o maior impacto disruptivo acontecerá quando multiplas organizações tiverem a possibilidade de construir suas próprias blockchains com suas próprias moedas. Isso criaria efetivamente uma rede descentralizada de nosso sistema monetário todos estes fora de controle de bancos centrais e “frameworks legais”, um conceito que talvez é difícil de imaginar e que realmente seria um divisor de águas na era da informação.
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Considerações
 ................................
 ................................
@@ -333,7 +329,7 @@ XXXXXXXXXX
 ................................
 ....
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Análise
 
 Uma das grandes preocupações de hoje é que com a automação de industrias atuais e das que ainda virão, muitos empregos podem se tornar obsoletos nas próximas duas décadas e causar uma grande crise de desemprego. Porém como conseguiríamos comprar e usufruir dos bens e serviços produzidos por estas DACs  que são populadas por robôs e agentes autônomos inteligentes? Um ponto de vista é de que governos e a população irão se tornar automaticamente “shareholders” nestas “empresas” e assim irão receber lucros em cima dos dividendos produzidos. Porém independente do caminho que a tecnologia seguir, já é certo que o conceito de DAO / DAC irá influenciar com grande peso algumas áreas da sociedade, ética, esfera legal, e desafios regulatórios; em um cenário onde companhias estão se tornando plataformas tecnológicas.
@@ -343,12 +339,12 @@ Um dos maiores impactos perceptíveis em nossa rotina e dia a dia, muito provave
 Uma das poucas constantes no século 21 é a rápida mudança tecnológica, e não obstante, a internet tem sido o modelo dominante de conectividade por quase 20 anos, e agora a blockchain desperta um novo paradigma onde autoridades de controle central e seus servidores não são mais necessários para a próxima geração da informação funcionar. O fato é que os peers do ethereum falam que a blockchain é ““the key to fixing deep-rooted prob­lems that have plagued our online lives for decades”.
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 Considerações finais
 
 Depois de analisar todas as peças do quebra-cabeça, podemos concluir que o bitcoin é uma moeda digital protegida matematicamente, que é mantida por uma rede de pessoas. Assinaturas digitais autorizam uma transação vinda de uma entidade, os fundos são transferidos por uma corrente de transações, e a ordem destas transações é protegida pela corrente de blocos. A rede pede para que problemas matemáticos difíceis sejam resolvidos a cada bloco, o que bota atacantes em uma corrida matemática que ele muito provavelmente perderá.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+________________________________________________________________________________________________________________________________________________
 CONCLUSÃO
 
 

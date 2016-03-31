@@ -13,7 +13,11 @@ contract mortal {
 	}
 }
 
+<<<<<<< HEAD
 contract cumprimentador mortal {
+=======
+contract cumprimentador is mortal {
+>>>>>>> cb33f08a507878c136da7d31195da45d01b998e9
 
 	//define a variavel cumprimento do tipo string
 	string cumprimento;
